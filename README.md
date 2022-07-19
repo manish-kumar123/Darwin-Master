@@ -10,7 +10,6 @@ recruitment campaigns by narrowing down the candidate pool for any specific job 
 ![](https://img.shields.io/github/stars/mihirs16/Project-Darwin?style=for-the-badge)
 ![](https://img.shields.io/github/forks/mihirs16/Project-Darwin?color=green&style=for-the-badge)
 <br><br>
-Project Demo Video: [Introducing - Project Darwin | By Team Blueprint](https://youtu.be/dAfU6YDgf8w)<br><br>
 
 ## Built With
 | Software | Version |
